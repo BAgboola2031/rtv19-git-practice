@@ -4,7 +4,7 @@
 
 \## Project Name
 
-TBD
+StudySync
 
 
 
@@ -16,5 +16,5 @@ TBD
 
 \## Target User
 
-TBD
+College students who want a simple way to manage their coursework and study schedules.
 
