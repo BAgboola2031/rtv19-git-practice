@@ -1,6 +1,6 @@
 \# Developer Profile
 
-\- \*\*Name:\*\* Ben
+\- \*\*Developer:\*\* Alex
 
 \- \*\*Hobby:\*\* Weightlifting
 
