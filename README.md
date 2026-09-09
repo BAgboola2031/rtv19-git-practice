@@ -4,3 +4,5 @@
 
 \- \*\*Hobby:\*\* Weightlifting
 
+\- \*\*Preferred Development Tool:\*\* CLion
+
