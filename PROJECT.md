@@ -4,7 +4,7 @@
 
 \## Project Name
 
-TBD
+StudySync
 
 
 
@@ -15,5 +15,5 @@ Students need a simple way to track assignments and avoid missing deadlines.
 
 \## Target User
 
-TBD
+College students who want a simple way to manage their coursework and study schedules.
 
