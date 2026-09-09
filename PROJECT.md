@@ -10,8 +10,7 @@ TBD
 
 \## Problem to Solve
 
-TBD
-
+Students need a simple way to track assignments and avoid missing deadlines.
 
 
 \## Target User
