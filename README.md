@@ -1,6 +1,6 @@
 \# Developer Profile
 
-\- \*\*Name:\*\* Ben
+\- \*\*Name:\*\* Alex (BAgboola2031)
 
 \- \*\*Hobby:\*\* Weightlifting
 
